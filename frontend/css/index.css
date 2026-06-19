@@ -1,3 +1,18 @@
+/*element selector*/
 h1{
     color:red;
+}
+
+#heading2{
+    color: aqua;
+}
+.heading{
+    color: burlywood;
+}
+.para{
+   border: 2px;
+   border-color: black;
+   border-style: solid;
+   padding: 20px;
+   text-align: justify;
 }
