@@ -6,5 +6,5 @@ const port = process.env.PORT || 6700;
 app.use(express.static("frontend"));
 
 app.listen(port,function(){
-        console.log("App running on http://localhost:"+port);
+       console.log("App running on http://localhost:"+port);
 });
