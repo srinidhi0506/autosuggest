@@ -9,7 +9,7 @@ const gender = document.getElementById("usergender");
 
 btn.addEventListener("click", function () {
     if (isMale) {
-        img.src = "../images/Jane - Copy.png";
+        img.src = "../images/Jane.png";
         name.innerText = "Jane Doe";
         gender.innerText = "Female";
     } else {

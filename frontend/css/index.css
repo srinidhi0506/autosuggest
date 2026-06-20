@@ -47,7 +47,7 @@ body{
 .card img{
     width: 100%;
 }
-#togglebtn{
-    display: block;
-    margin: 20px auto;
+
+.card button{
+    margin-bottom: 20px;
 }
